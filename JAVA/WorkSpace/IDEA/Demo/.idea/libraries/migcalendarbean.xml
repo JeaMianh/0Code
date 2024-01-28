@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="migcalendarbean">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/lib/migcalendarbean.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

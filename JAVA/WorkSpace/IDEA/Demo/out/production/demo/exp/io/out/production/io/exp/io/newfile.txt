@@ -1,0 +1,2 @@
+The number of English characters is: 45
+The number of English words is: 9
